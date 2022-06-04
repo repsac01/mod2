@@ -3,15 +3,15 @@ available: true
 classes: 32
 colour: 190
 id: 49
-label: ZINC
-longName: zinc
-name: Zinc
+label: diam
+longName: diamant
+name: diamant
 penaltyLength: 243
 penaltyLowerBound: 12
-price: 5181
+price: 20560
 sprite:
-  filename: cargoes/zinc.png
+  filename: cargoes/diamant.png
   left: 0
   top: 0
-unitName: Tonnes
+unitName: Crates
 weight: 16
